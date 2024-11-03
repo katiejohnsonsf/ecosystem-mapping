@@ -1,6 +1,6 @@
 # ecosystem-mapping
 
-Experimentation for ecosystem classification models
+Network analysis and Modeling of Vegetation Classification
 
 ## data sources
 
